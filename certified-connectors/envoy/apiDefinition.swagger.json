@@ -2254,8 +2254,8 @@
               "type": "object",
               "properties": {
                 "data": {
-                  "type": "object",
-                  "properties": {
+                  "type": "array",
+                  "items": {
                     "id": {
                       "type": "string",
                       "description": "id"
